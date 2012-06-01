@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE components PUBLIC "-//SEASAR//DTD S2Container 2.3//EN"
+  "http://www.seasar.org/dtd/components23.dtd">
+<components>
+    <component name="Kyoto" class="sample.Hokkaido" >
+    </component>
+
+    <component name="sample1" class="sample.sample1" >
+    <property name="Kyoto">Kyoto</property>
+    </component>
+</components>
+
+

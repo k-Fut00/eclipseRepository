@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/home/1500590/apps/S2.4.46/seasar2/lib/s2-framework-2.4.46.jar"/>
+	<classpathentry kind="lib" path="C:/home/1500590/apps/S2.4.46/seasar2/lib/ognl-2.6.9-patch-20090427.jar"/>
+	<classpathentry kind="lib" path="C:/home/1500590/apps/S2.4.46/seasar2/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/home/1500590/apps/S2.4.46/seasar2/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/home/1500590/apps/S2.4.46/seasar2/lib/javassist-3.4.ga.jar"/>
+	<classpathentry kind="lib" path="C:/home/1500590/apps/S2Tiger-2.4.46/s2-tiger/lib/s2-tiger-2.4.46.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
